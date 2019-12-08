@@ -1,0 +1,22 @@
+{
+  "name": "express-generator-lwp",
+  "version": "1.0.0",
+  "description": "mini版express-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanweipeng/express-generator-lwp.git"
+  },
+  "keywords": [
+    "手写express-generator"
+  ],
+  "author": "lanweipeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanweipeng/express-generator-lwp/issues"
+  },
+  "homepage": "https://github.com/lanweipeng/express-generator-lwp/#readme"
+}
